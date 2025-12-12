@@ -1,7 +1,3 @@
-Here’s a **no-fluff, real-world BGP cheat sheet** — the kind that actually helps in **ISP / core / enterprise edge** work *and* on exams (CCNA → CCNP → SP). This is written in the same style you’d use on shift when something’s broken.
-
----
-
 # 🌍 BGP Cheat Sheet (Quick Reference)
 
 ## 1️⃣ What BGP Is
@@ -224,13 +220,3 @@ show tcp brief
 * **iBGP needs help to scale**
 * **BGP won’t fix broken IGP**
 
----
-
-If you want, I can:
-
-* Build a **GNS3 ISP-style BGP lab** (iBGP + RR + eBGP)
-* Create a **1-page printable PDF**
-* Make a **BGP vs OSPF vs IS-IS comparison**
-* Write a **LinkedIn post in your tone** about real BGP work
-
-Just tell me which direction you want to go 🚀
